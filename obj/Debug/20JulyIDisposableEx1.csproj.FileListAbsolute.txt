@@ -1,0 +1,8 @@
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\bin\Debug\20JulyIDisposableEx1.exe.config
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\bin\Debug\20JulyIDisposableEx1.exe
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\bin\Debug\20JulyIDisposableEx1.pdb
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\obj\Debug\20JulyIDisposableEx1.csproj.AssemblyReference.cache
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\obj\Debug\20JulyIDisposableEx1.csproj.SuggestedBindingRedirects.cache
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\obj\Debug\20JulyIDisposableEx1.csproj.CoreCompileInputs.cache
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\obj\Debug\20JulyIDisposableEx1.exe
+D:\20JulyIDisposableEx1\20JulyIDisposableEx1\obj\Debug\20JulyIDisposableEx1.pdb
