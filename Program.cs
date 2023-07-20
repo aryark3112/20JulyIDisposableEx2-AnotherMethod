@@ -10,12 +10,23 @@ namespace _20JulyIDisposableEx1
     {
         static void Main(string[] args)
         {
-            FileHandler filehandler = new FileHandler("Sam File One");
+            //Example 1
+            //FileHandler filehandler = new FileHandler("Sam File One");
 
-            filehandler.GetFileDetails();
-            FileHandler filehandler2 = new FileHandler("Sam File Two");
-            filehandler2.GetFileDetails();
-            filehandler.Dispose();
+            //filehandler.GetFileDetails();
+            //FileHandler filehandler2 = new FileHandler("Sam File Two");
+            //filehandler2.GetFileDetails();
+            //filehandler.Dispose();
+
+            //Example 2
+            using (FileHandler obj1 = new FileHandler("Document-001") )
+            {
+                obj1.GetFileDetails();
+            }
+            using (FileHandler obj2 = new FileHandler("Document-002"))
+            {
+                obj2.GetFileDetails();
+            }
             Console.ReadKey();
         }
     }
